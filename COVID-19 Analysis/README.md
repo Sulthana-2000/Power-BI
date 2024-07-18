@@ -17,7 +17,7 @@ This project involves analyzing global COVID-19 data using Power BI to create a 
 
 7. New Cases are separately listed using a bookmark.
 
-# Dashboard 
+# Glimpse of the Dashboard 
 
 ![Screenshot (49)](https://github.com/user-attachments/assets/46cf3c8a-c2d3-4ce1-a2a2-aafbccbba4b2)
 
