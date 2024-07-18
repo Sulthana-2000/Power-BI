@@ -3,19 +3,19 @@ This project involves analyzing global COVID-19 data using Power BI to create a 
 
 # Dashboard Features and Insights
 
-1.Interactive Map of COVID-19 Confirmed Cases: Visualize the distribution of confirmed cases globally with the ability to zoom in on specific regions for detailed analysis.
+1. Interactive Map of COVID-19 Confirmed Cases: Visualize the distribution of confirmed cases globally with the ability to zoom in on specific regions for detailed analysis.
 
-2.Key Metrics Summary: Display critical numbers such as total confirmed cases, total deaths, total recoveries, mortality rate, and recovery rate, providing a snapshot of the pandemic's impact.
+2. Key Metrics Summary: Display critical numbers such as total confirmed cases, total deaths, total recoveries, mortality rate, and recovery rate, providing a snapshot of the pandemic's impact.
 
-3.Recovered Cases by WHO Region: Bar chart showing the number of recovered cases in different WHO regions, highlighting regions with the highest recovery rates.
+3. Recovered Cases by WHO Region: Bar chart showing the number of recovered cases in different WHO regions, highlighting regions with the highest recovery rates.
 
-4.Trend Analysis: Line chart depicting the trend of new cases, new deaths, and new recoveries over time, allowing users to observe patterns and changes in the pandemic's progression.
+4. Trend Analysis: Line chart depicting the trend of new cases, new deaths, and new recoveries over time, allowing users to observe patterns and changes in the pandemic's progression.
 
-5.Deaths by WHO Region: Pie chart illustrating the distribution of deaths across different WHO regions, indicating regions most affected by fatalities.
+5. Deaths by WHO Region: Pie chart illustrating the distribution of deaths across different WHO regions, indicating regions most affected by fatalities.
 
-6.Severity Indicator: A metric showing the severity rate, calculated as the ratio of new deaths to new cases, providing insight into the current lethality of the virus in different regions.
+6. Severity Indicator: A metric showing the severity rate, calculated as the ratio of new deaths to new cases, providing insight into the current lethality of the virus in different regions.
 
-7.New Cases are separately listed using a bookmark.
+7. New Cases are separately listed using a bookmark.
 
 # Dashboard 
 
