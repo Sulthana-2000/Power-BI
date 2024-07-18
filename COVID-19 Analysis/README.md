@@ -14,3 +14,15 @@ This project involves analyzing global COVID-19 data using Power BI to create a 
 5.Deaths by WHO Region: Pie chart illustrating the distribution of deaths across different WHO regions, indicating regions most affected by fatalities.
 
 6.Severity Indicator: A metric showing the severity rate, calculated as the ratio of new deaths to new cases, providing insight into the current lethality of the virus in different regions.
+
+# Dashboard 
+
+![Screenshot (49)](https://github.com/user-attachments/assets/46cf3c8a-c2d3-4ce1-a2a2-aafbccbba4b2)
+
+![Screenshot (50)](https://github.com/user-attachments/assets/4cb7c2b8-4802-406f-a814-79985013f0ae)
+
+
+
+
+
+
